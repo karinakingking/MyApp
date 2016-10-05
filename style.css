@@ -1,0 +1,8 @@
+div#links { top: 10px align:center;}
+
+div#links a span {display: none;}
+
+div#links a:hover span.monitor {display: block;
+   position: absolute; top: 50px; left: 150px; width: 300px; height:50px; 
+   padding: 5px; margin: 20px; color: white; background-color:#006633; font-family:Bauhaus 93; font-size:13px; 
+   border-color:#00cc99; border-width:1px; border-style:solid; text-align: left;}
